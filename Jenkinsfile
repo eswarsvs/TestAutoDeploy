@@ -68,7 +68,7 @@ if(rc != 0){
   }
 }
 stage('copying ant files') {
-  sh "cp C:/Users/eswararao.sobila/Eswar/Salesforce/Jenkins/workspace/SFDXAutoDeploy_Simple-L526GJMYX4ONG3UVT2YMGKVZLNDG3GTYENJXYJULJCDDWJOV6APQ/mdapi_output_dir_13 C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample/codepkg /e"  
+  sh "cp C:/Users/eswararao.sobila/Eswar/Salesforce/Jenkins/workspace/SFDXAutoDeploy_Simple-L526GJMYX4ONG3UVT2YMGKVZLNDG3GTYENJXYJULJCDDWJOV6APQ/mdapi_output_dir_13 C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample/codepkg"  
     sh "cd C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample"
 }
 }
