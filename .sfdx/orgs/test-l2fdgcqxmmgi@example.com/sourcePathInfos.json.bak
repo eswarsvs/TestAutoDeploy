@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538949507746,
+            "changeTime": 1538949507746,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538949507754,
+            "changeTime": 1538949507754,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538949610221,
+            "changeTime": 1538949610221,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538949507758,
+            "changeTime": 1538949507758,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538949610317,
+            "changeTime": 1538949610317,
+            "contentHash": "e1cced5582cbadf57418bd45a726ae315b898c8c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\classes\\AccAutoCon.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\classes\\AccAutoCon.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 74,
+            "modifiedTime": 1538949610312,
+            "changeTime": 1538949610312,
+            "contentHash": "f76495459e5721bcd9275d65121cc091ac5b4021",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\classes\\AccAutoCon.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy\\force-app\\main\\default\\classes\\AccAutoCon.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1538949610317,
+            "changeTime": 1538949610317,
+            "contentHash": "22496fedc6bb05c31c2b84acf5b7667b925b036f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\SalesforceDX\\TestAutoDeploy",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538949561447,
+            "changeTime": 1538949561447,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
