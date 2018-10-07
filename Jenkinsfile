@@ -68,7 +68,6 @@ if(rc != 0){
   }
 }
 stage('copying ant files') {
-sh "mkdir ${DEPLOY_FOLDER}"
   sh "xcopy ${DEPLOY_FOLDER} ${antpath}"  
     sh "cd ${antexecutepath}"
 }
