@@ -68,7 +68,7 @@ if(rc != 0){
   }
 }
 stage('copying ant files') {
-  sh "xcopy ${DEPLOY_FOLDER} C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample/codepkg"  
+  sh "xcopy C:/Users/eswararao.sobila/Eswar/Salesforce/Jenkins/workspace/SFDXAutoDeploy_Simple-L526GJMYX4ONG3UVT2YMGKVZLNDG3GTYENJXYJULJCDDWJOV6APQ/${DEPLOY_FOLDER} C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample/codepkg"  
     sh "cd C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample"
 }
 }
