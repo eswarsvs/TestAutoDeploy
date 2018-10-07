@@ -68,8 +68,8 @@ if(rc != 0){
   }
 }
 stage('copying ant files') {
-  sh "xcopy ${DEPLOY_FOLDER} ${antpath}"  
-    sh "cd ${antexecutepath}"
+  sh "xcopy ${DEPLOY_FOLDER} C:\Users\eswararao.sobila\Eswar\salesforce_ant_39.0\sample\codepkg"  
+    sh "cd C:\Users\eswararao.sobila\Eswar\salesforce_ant_39.0\sample"
 }
 }
 }
