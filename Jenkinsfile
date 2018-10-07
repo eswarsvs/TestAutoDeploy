@@ -52,9 +52,9 @@ error 'push failed'
 //}
 //}
 //}
-stage('collect results') {
-junit keepLongStdio: true, testResults: 'tests/**/*-junit.xml'
-}
+//stage('collect results') {
+//junit keepLongStdio: true, testResults: 'tests/**/*-junit.xml'
+//}
 stage('Deploying to Sandbox') {
 sh "mkdir ${DEPLOY_FOLDER}"
 rc = sh returnStatus: true, script: "${toolbelt}/sfdx  force:source:convert -d ${DEPLOY_FOLDER} --packagename package_name"
