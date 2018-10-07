@@ -70,6 +70,7 @@ if(rc != 0){
 stage('copying ant files') {
   rc = sh returnStatus: true, script: "${toolbelt}/sfdx  force:source:convert -d C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample/codepkg --packagename package_name"
     sh "cd C:/Users/eswararao.sobila/Eswar/salesforce_ant_39.0/sample"
+  sh "Ant DeployClasses"
 }
 }
 }
